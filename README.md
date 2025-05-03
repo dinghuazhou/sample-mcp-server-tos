@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dinghuazhou-sample-mcp-server-tos-badge.png)](https://mseep.ai/app/dinghuazhou-sample-mcp-server-tos)
+
 # Sample TOS Model Context Protocol Server
 
 An MCP server implementation for retrieving data from TOS.
